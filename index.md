@@ -8,11 +8,11 @@ I am an Applied Scientist at Amazon working with their Comprehend Medical Team. 
 
 # Education
 
-* PhD (CSE) The Ohio State University (2016)
-* BE (CSE) University of Pune (2008)
+* PhD [CSE] The Ohio State University [2016]
+* BE [CSE] University of Pune [2008]
 
 # Work Experience
 
-* Amazon (current)
-* IBM Research (2016 - 2019)
-* Tata Research Development and Design Center (2008 - 2010)
+* Amazon [current]
+* IBM Research [2016 - 2019]
+* Tata Research Development and Design Center [2008 - 2010]
