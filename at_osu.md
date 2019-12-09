@@ -31,6 +31,8 @@ I was a PhD student at the Speech and Language Processing ([SLaTe](http://web.cs
 * Shivade, Chaitanya, Marie-Catherine de Marneffe, Eric Fosler-Lussier, and Albert M. Lai. _Corpus-based discovery of semantic intensity scales._ In Proceedings of NAACL 2015.
 * Shivade, Chaitanya, Marie-Catherine de Marneffe, Eric Fosler-Lussier, and Albert M. Lai. _Identification, characterization, and grounding of gradable terms in clinical text._ In Proceedings of the Biomedical Natural Language Processing Workshop at ACL 2016.
 
+### Awards
+* __Best Dissertation Idea__ At the American Medical Informatics Association [AMIA] NLP Doctoral Symposium
 
 ### Patents
 
