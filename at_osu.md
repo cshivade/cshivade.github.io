@@ -23,6 +23,14 @@ I was a PhD student at the Speech and Language Processing ([SLaTe](http://web.cs
 
 * Hebert, Courtney, Chaitanya Shivade, Randi Foraker, Jared Wasserman, Caryn Roth, Hagop Mekhjian, Stanley Lemeshow, and Peter Embi. _Diagnosis-specific readmission risk prediction using electronic health data: a retrospective cohort study._ BMC Medical Informatics and Decision Making (2014)
 
+<dl>
+<dt> Understanding adjective and adverb scales </dt>
+<dd> We developed techniques to identify, understand and order the meaning gradable terms such as adjectives and adverbs in biomedical texts. (e.g. serious < life-threatening < fatal)  </dd>
+</dl>
+
+* Shivade, Chaitanya, Marie-Catherine de Marneffe, Eric Fosler-Lussier, and Albert M. Lai. _Corpus-based discovery of semantic intensity scales._ In Proceedings of NAACL 2015.
+* Shivade, Chaitanya, Marie-Catherine de Marneffe, Eric Fosler-Lussier, and Albert M. Lai. _Identification, characterization, and grounding of gradable terms in clinical text._ In Proceedings of the Biomedical Natural Language Processing Workshop at ACL 2016.
+
 
 ### Patents
 
