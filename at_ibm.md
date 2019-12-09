@@ -34,6 +34,11 @@ in the ViGIL workshop at Neurips 2019. [[Paper](https://vigilworkshop.github.io/
   <dd>This product is a retrospective review tool for clinicians to spot discrepancies between structured and unstructured data. [<a href="https://www.ibm.com/us-en/marketplace/watson-imaging-clinical-review">Web</a>]</dd>
 </dl>
 
+### Talks
+* At National Libray of Medicine on _Language Inference for Clinical Texts_ [[Link]](https://ceb.nlm.nih.gov/2018/09/27/lecture-language-inference-in-clinical-text-by-dr-chaitanya-shivade-on-10-2-18/)
+* At Massachusetts Institute of Technology on _Deep Neural Networks and The Struggles with Clinical Texts_ [[Link]](https://criticaldata.mit.edu/consortium/)
+* At University of Antwerp _Language Inference for Question Answering for Clinical Texts
+
 ### Patents
 * [US20190198137A1](https://patents.google.com/patent/US20190198137A1/en) Baldwin, Tyler, Marina Bendersky, Ashutosh Jadhav, Karina Kanjaria, Chaitanya Shivade, Tanveer F. Syeda-Mahmood, and Joy Wu. _Automatic Summarization of Patient Data Using Medically Relevant Summarization Templates._ U.S. Patent Application 15/854,136, filed June 27, 2019.
 * [US20190198138A1](https://patents.google.com/patent/US20190198138A1/en) Baldwin, Tyler, Ashutosh Jadhav, Chaitanya Shivade, Tanveer F. Syeda-Mahmood, and Joy Wu. _Automatic Expansion of Medically Relevant Summarization Templates Using Semantic Expansion._ U.S. Patent Application 15/854,179, filed June 27, 2019.
