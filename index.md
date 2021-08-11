@@ -4,7 +4,7 @@ layout: default
 
 # Introduction
 
-Hello ! I am Chaitanya (pronounciation [help](https://pronouncenames.com/search?name=chaitanya))  an Applied Scientist with [Amazon Comprehend Medical](https://aws.amazon.com/comprehend/medical/). I work on applying machine learning and natural language processing to biomedical data.
+Hello ! I am Chaitanya (pronounciation [help](https://pronouncenames.com/search?name=chaitanya))  an Applied Scientist with [AWS Health AI](https://aws.amazon.com/comprehend/medical/). I work on applying machine learning and natural language processing to biomedical data.
 
 Before joining Amazon, I was a Research Staff Member with IBM Research. I [worked](./at_ibm.html) on multi-modal problems applying machine learning, NLP and computer vision to radiology data. 
 
